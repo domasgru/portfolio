@@ -1,0 +1,379 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "dominykas",
+    "displayName": "Dominykas",
+    "profession": "Frontend Engineer & Designer",
+    "location": "Kaunas, Lithuania",
+    "pronouns": null,
+    "byline": "Frontend Engineer & Designer in Kaunas, Lithuania",
+    "website": null,
+    "websiteURL": null,
+    "about": "Crafting user interfaces",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": null
+  },
+  "projects": [
+    {
+      "id": "TEDwgnbtXC1VsCJHURdO",
+      "year": "2024",
+      "heading": "Playlistai",
+      "url": "https://playlistai.vercel.app/?demo=true",
+      "collaborators": [],
+      "description": "Designed and built a tool to create Spotify playlists guided by a single input. Powered by SpotifyAPI and ChatGPT.",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 3024,
+          "height": 1868,
+          "url": "/content/media/Playlistai.mp4"
+        }
+      ],
+      "type": "project",
+      "title": "Playlistai",
+      "company": ""
+    },
+    {
+      "id": "oPUGqSTTRCePKPZSPS1L",
+      "year": "2024",
+      "heading": "Xreader",
+      "url": null,
+      "collaborators": [],
+      "description": "Designed and built a chrome extension that reads x.com and outputs a cleaner, more minimal version of it. Additionally, you can generate summary for up to several days of your timeline content.",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 1730,
+          "height": 1080,
+          "url": "/content/media/Xreader-1.mp4"
+        },
+        {
+          "type": "image",
+          "width": 3756,
+          "height": 2448,
+          "url": "/content/media/Xreader-2.png"
+        }
+      ],
+      "type": "project",
+      "title": "Xreader",
+      "company": ""
+    },
+    {
+      "id": "GyYkvfLanQGJFhrWXg0t",
+      "year": "2024",
+      "heading": "Weather App & Widget concept",
+      "url": null,
+      "collaborators": [],
+      "description": "Designed a weather app concept centered on:\n\n* next 12-hours weather forecast inspired by analog clock, aiming for quick and effortless understanding of the weather at specific times and a clear overview of the day ahead.\n\n* 24-hours weather diagram offering more comprehensive insights for entire days, presenting all the most important weather variables (temperature, wind, precipitation, cloud cover) in a single view.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 4000,
+          "height": 4000,
+          "url": "/content/media/Weather-App-and-Widget-concept-1.png"
+        },
+        {
+          "type": "image",
+          "width": 4000,
+          "height": 4000,
+          "url": "/content/media/Weather-App-and-Widget-concept-2.png"
+        },
+        {
+          "type": "image",
+          "width": 4000,
+          "height": 4000,
+          "url": "/content/media/Weather-App-and-Widget-concept-3.png"
+        }
+      ],
+      "type": "project",
+      "title": "Weather App & Widget concept",
+      "company": ""
+    },
+    {
+      "id": "shKEqoEtJ3uUjPRHOVtI",
+      "year": "2023",
+      "heading": "Hostinger AI Logo Maker",
+      "url": "https://logo.hostinger.com/",
+      "collaborators": [],
+      "description": "Designed, built and experimented with completely AI based Logo Maker. The main goal was to give clients the simplest possible flow, and the most unique logos, unlocked by breakthrough language and image generation models.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 6328,
+          "height": 4128,
+          "url": "/content/media/Hostinger-AI-Logo-Maker-1.png"
+        },
+        {
+          "type": "image",
+          "width": 6328,
+          "height": 4128,
+          "url": "/content/media/Hostinger-AI-Logo-Maker-2.png"
+        }
+      ],
+      "type": "project",
+      "title": "Hostinger AI Logo Maker",
+      "company": ""
+    },
+    {
+      "id": "ioXofo6pCiGxVFqWzXFL",
+      "year": "2021",
+      "heading": "Klary",
+      "url": "https://klary.co",
+      "collaborators": [
+        {
+          "displayName": "Justinas",
+          "profilePhoto": "/content/collaborators/justinas.jpg",
+          "profileURL": "https://read.cv/justinas"
+        }
+      ],
+      "description": "My friend [Justinas](https://x.com/justinasgul) and I collaborated to create a platform designed for people—most often teammates—to share feedback with one another. You can [learn more](https://klary.co/#story) about the story behind its creation or [try the app](https://app.klary.co) (it's free, only google login required).",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 6080,
+          "height": 3968,
+          "url": "/content/media/Klary-1.png"
+        },
+        {
+          "type": "image",
+          "width": 6080,
+          "height": 3968,
+          "url": "/content/media/Klary-2.png"
+        }
+      ],
+      "type": "project",
+      "title": "Klary",
+      "company": ""
+    }
+  ],
+  "sideProjects": [],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "j8236JEUZjmzinfCqzMc",
+      "year": "2019 — 2024",
+      "heading": "Frontend Engineer at Hostinger",
+      "url": "https://www.hostinger.com/website-builder",
+      "collaborators": [],
+      "description": "As a member of Website Builder core team, I contributed to key product functionalities including data manipulation, undo/redo, text editing, users site rendering & performance, global styling, website generator wizard. Over the last few years, I expanded my role to include designing features alongside frontend development.\n\nAdditionaly, I was owning, designing and building the Hostinger Logo Maker side-product which across several iterations had - authentication, AI logo generation, editing canvas and premium download and credit purchase flows.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Frontend Engineer",
+      "company": "Hostinger",
+      "location": "Kaunas, Lithuania"
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "nzYn22EN86AFF8lgW5oP",
+      "year": "2015 — 2018",
+      "heading": "Medicine at Lithuanian University of Health Sciences",
+      "url": null,
+      "collaborators": [],
+      "description": "Studied medicine for 3 years, learned some fundamental knowledge about human body and the value of hard work. Truly enjoyed health sciences, but had to pause the studies due to personal health issues, during that time started exploring the world of digital products, found a great passion for it and decided to stay in this field.",
+      "attachments": [],
+      "type": "education",
+      "degree": "Medicine",
+      "school": "Lithuanian University of Health Sciences",
+      "location": "Kaunas, Lithuania"
+    }
+  ],
+  "certifications": [],
+  "contact": [],
+  "allCollections": [
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "TEDwgnbtXC1VsCJHURdO",
+          "year": "2024",
+          "heading": "Playlistai",
+          "url": "https://playlistai.vercel.app/?demo=true",
+          "collaborators": [],
+          "description": "Designed and built a tool to create Spotify playlists guided by a single input. Powered by SpotifyAPI and ChatGPT.",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 3024,
+              "height": 1868,
+              "url": "/content/media/Playlistai.mp4"
+            }
+          ],
+          "type": "project",
+          "title": "Playlistai",
+          "company": ""
+        },
+        {
+          "id": "oPUGqSTTRCePKPZSPS1L",
+          "year": "2024",
+          "heading": "Xreader",
+          "url": null,
+          "collaborators": [],
+          "description": "Designed and built a chrome extension that reads x.com and outputs a cleaner, more minimal version of it. Additionally, you can generate summary for up to several days of your timeline content.",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 1730,
+              "height": 1080,
+              "url": "/content/media/Xreader-1.mp4"
+            },
+            {
+              "type": "image",
+              "width": 3756,
+              "height": 2448,
+              "url": "/content/media/Xreader-2.png"
+            }
+          ],
+          "type": "project",
+          "title": "Xreader",
+          "company": ""
+        },
+        {
+          "id": "GyYkvfLanQGJFhrWXg0t",
+          "year": "2024",
+          "heading": "Weather App & Widget concept",
+          "url": null,
+          "collaborators": [],
+          "description": "Designed a weather app concept centered on:\n\n* next 12-hours weather forecast inspired by analog clock, aiming for quick and effortless understanding of the weather at specific times and a clear overview of the day ahead.\n\n* 24-hours weather diagram offering more comprehensive insights for entire days, presenting all the most important weather variables (temperature, wind, precipitation, cloud cover) in a single view.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 4000,
+              "height": 4000,
+              "url": "/content/media/Weather-App-and-Widget-concept-1.png"
+            },
+            {
+              "type": "image",
+              "width": 4000,
+              "height": 4000,
+              "url": "/content/media/Weather-App-and-Widget-concept-2.png"
+            },
+            {
+              "type": "image",
+              "width": 4000,
+              "height": 4000,
+              "url": "/content/media/Weather-App-and-Widget-concept-3.png"
+            }
+          ],
+          "type": "project",
+          "title": "Weather App & Widget concept",
+          "company": ""
+        },
+        {
+          "id": "shKEqoEtJ3uUjPRHOVtI",
+          "year": "2023",
+          "heading": "Hostinger AI Logo Maker",
+          "url": "https://logo.hostinger.com/",
+          "collaborators": [],
+          "description": "Designed, built and experimented with completely AI based Logo Maker. The main goal was to give clients the simplest possible flow, and the most unique logos, unlocked by breakthrough language and image generation models.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 6328,
+              "height": 4128,
+              "url": "/content/media/Hostinger-AI-Logo-Maker-1.png"
+            },
+            {
+              "type": "image",
+              "width": 6328,
+              "height": 4128,
+              "url": "/content/media/Hostinger-AI-Logo-Maker-2.png"
+            }
+          ],
+          "type": "project",
+          "title": "Hostinger AI Logo Maker",
+          "company": ""
+        },
+        {
+          "id": "ioXofo6pCiGxVFqWzXFL",
+          "year": "2021",
+          "heading": "Klary",
+          "url": "https://klary.co",
+          "collaborators": [
+            {
+              "displayName": "Justinas",
+              "profilePhoto": "/content/collaborators/justinas.jpg",
+              "profileURL": "https://read.cv/justinas"
+            }
+          ],
+          "description": "My friend [Justinas](https://x.com/justinasgul) and I collaborated to create a platform designed for people—most often teammates—to share feedback with one another. You can [learn more](https://klary.co/#story) about the story behind its creation or [try the app](https://app.klary.co) (it's free, only google login required).",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 6080,
+              "height": 3968,
+              "url": "/content/media/Klary-1.png"
+            },
+            {
+              "type": "image",
+              "width": 6080,
+              "height": 3968,
+              "url": "/content/media/Klary-2.png"
+            }
+          ],
+          "type": "project",
+          "title": "Klary",
+          "company": ""
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "j8236JEUZjmzinfCqzMc",
+          "year": "2025 — 2026",
+          "heading": "Frontend Engineer at Wix",
+          "url": "https://www.wix.com/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Frontend Engineer",
+          "company": "Wix",
+          "location": "Vilnius, Lithuania"
+        },
+        {
+          "id": "j8236JEUZjmzinfCqzMc",
+          "year": "2019 — 2024",
+          "heading": "Frontend Engineer at Hostinger",
+          "url": "https://www.hostinger.com/website-builder",
+          "collaborators": [],
+          "description": "As a member of Website Builder core team, I contributed to key product functionalities including data manipulation, undo/redo, text editing, users site rendering & performance, global styling, website generator wizard. Over the last few years, I expanded my role to include designing features alongside frontend development.\n\nAdditionaly, I was owning, designing and building the Hostinger Logo Maker side-product which across several iterations had - authentication, AI logo generation, editing canvas and premium download and credit purchase flows.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Frontend Engineer",
+          "company": "Hostinger",
+          "location": "Kaunas, Lithuania"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "nzYn22EN86AFF8lgW5oP",
+          "year": "2015 — 2018",
+          "heading": "Medicine at Lithuanian University of Health Sciences",
+          "url": null,
+          "collaborators": [],
+          "description": "Studied medicine for 3 years, learned some fundamental knowledge about human body and the value of hard work. Truly enjoyed health sciences, but had to pause the studies due to personal health issues, during that time started exploring the world of digital products, found a great passion for it and decided to stay in this field.",
+          "attachments": [],
+          "type": "education",
+          "degree": "Medicine",
+          "school": "Lithuanian University of Health Sciences",
+          "location": "Kaunas, Lithuania"
+        }
+      ]
+    }
+  ]
+}
