@@ -335,7 +335,7 @@
           "heading": "Frontend Engineer at Wix",
           "url": "https://www.wix.com/",
           "collaborators": [],
-          "description": "",
+          "description": "Worked on the Forms platform team — an internal solution/library used by other products for form editing and form rendering experiences. Contributed to shaping a flexible and developer-friendly platform API.\n\nWas a member of a small experimental team where we pushed the limits of agentic coding, shipping an in-browser PDF editor powered by WebAssembly and Rust in 3 months.",
           "attachments": [],
           "type": "workExperience",
           "title": "Frontend Engineer",
